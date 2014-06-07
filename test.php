@@ -1,3 +1,3 @@
 <? 
-echo "HelloWotld";
+echo "HelloWotldNew";
 ?>
